@@ -1,9 +1,7 @@
 # Statement
 
-这是一个强化学习的学习，学的是https://hrl.boyuai.com/这本书
-
+这是一个强化学习的学习，学的是 https://hrl.boyuai.com/ 
 还在初学阶段
-
 作为笔记使用
 # Issue
 这是一个依赖的小问题，但是我没去弄懂是为什么
