@@ -1,6 +1,6 @@
 # Statement
 
-这是一个强化学习的学习
+这是一个强化学习的学习，学的是https://hrl.boyuai.com/这本书
 
 还在初学阶段
 
