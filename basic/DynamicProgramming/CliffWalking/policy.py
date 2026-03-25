@@ -1,3 +1,4 @@
+import copy
 class PolicyIteration:
     """ 策略迭代算法 """
     def __init__(self, env, theta, gamma):
